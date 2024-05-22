@@ -1,0 +1,5 @@
+streamlit
+office365
+office365.runtime.auth.authentication_context
+office365.sharepoint.client_context
+
